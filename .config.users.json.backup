@@ -9,6 +9,12 @@
                 "view-node-show-label": true,
                 "view-show-tips": true
             }
+        },
+        "git": {
+            "user": {
+                "name": "kitanonet",
+                "email": "kitecnnic@gmail.com"
+            }
         }
     }
 }
